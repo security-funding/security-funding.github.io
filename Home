@@ -1,0 +1,236 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+
+
+
+
+
+
+
+		<title>ID mortgages : ID mortgage rates and home loans</title>
+		<meta http-equiv="Expires" content="-1" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta name="keywords" content="ID mortgage, refinance, mortgage refinance, home refinance, home loan, mortgage rates, refinance rates, home loan rates" />
+		<meta name="description" content="ID mortgages with competitive interest rates. Compare mortgage interest rates from lenders in ID. Get personalized mortgage rate quotes from ID lenders." />
+		
+		<link rel="stylesheet" type="text/css" href="Styles.css" />
+		<link rel="stylesheet" type="text/css" href="templates/themes/equity/styleSheet.css" />
+		<script type="text/javascript" src="scripts/flashobject.js"></script>
+		<script type="text/javascript" src="scripts/themeScripts.js"></script>
+		<script type="text/javascript" SRC="scripts/flashPopup.js"></script>
+		
+		
+	</head>
+
+	<body bgcolor="#ffffff" topmargin="0" leftmargin="0">
+
+
+
+
+		
+		<div id="flashPopupNavLeft" style="position:absolute; width:5px; height:5px; z-index:999; left: -200px; top: 200px; visibility: visible;" onMouseOver="stopTime();" onMouseOut="startTime();">
+			<!-- alt content goes here, renders when the user doesn't have the proper flash file -->
+		</div>
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#CCCCCC">&nbsp;</td>
+				<td width="770">
+					<div id="topFlashNav"><!-- needs flash plugin --></div>
+				</td>
+				<td bgcolor="#CCCCCC">&nbsp;</td>
+			</tr>
+		</table>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#CCCCCC">&nbsp;</td>
+				<td id="flashNav" width="181" valign="top">
+					<div id="leftFlashNav"><!-- needs flash plugin --></div>
+					
+					<script type="text/javascript">
+					
+						var dtDate = new Date();
+						var szPageGuid = dtDate.getUTCMilliseconds().toString();
+					
+						// <![CDATA[
+						var foTop = new FlashObject("/templates/themes/FamilyEquity/TopNav.swf", "topNav", "770", "220", 8, "#FFFFFF", "/XSitesBasic/HTMLSite.aspx");
+						foTop.addVariable("host", "www.security-funding.com");
+						foTop.addVariable("AWSAccountsID", "381172");
+						foTop.addVariable("sitename", "/xSites/Mortgage/security-funding/");
+						foTop.addVariable("ChosenLanguage", "English");
+						foTop.addVariable("FileName", "HomePage.x");
+						foTop.addVariable("IsMaster", "True");
+						foTop.addVariable("lcGuid", szPageGuid);
+						foTop.addVariable("OS", BrowserDetect.OS);
+						foTop.addParam("wmode", "transparent");
+						foTop.addParam("scale", "noscale");
+						foTop.addParam("salign", "lt");
+						foTop.addParam("menu", "false");
+						foTop.write("topFlashNav");
+
+						function loadLeftNav(){
+							var foSec = new FlashObject("/templates/themes/FamilyEquity/LeftNav.swf", "leftNav", "181", "650", 8, "#FFFFFF");
+							foSec.addVariable("host", "www.security-funding.com");
+							foSec.addVariable("AWSAccountsID", "381172");
+							foSec.addVariable("sitename", "/xSites/Mortgage/security-funding/");
+							foSec.addVariable("ChosenLanguage", "English");
+							foSec.addVariable("lcGuid", szPageGuid);
+							foSec.addVariable("OS", BrowserDetect.OS);
+							foSec.addParam("scale", "noscale");
+							foSec.addParam("salign", "lt");
+							foSec.addParam("menu", "false");
+							foSec.write("leftFlashNav");
+						}
+						
+						var foDiv = new FlashObject("/templates/themes/nestedNav/style1.swf", "popupSwf", "200", "25", 8, "#FFFFFF");
+						foDiv.addVariable("host", "www.security-funding.com");
+						foDiv.addVariable("AWSAccountsID", "381172");
+						foDiv.addVariable("sitename", "/xSites/Mortgage/security-funding/");
+						foDiv.addVariable("ChosenLanguage", "English");
+						foDiv.addVariable("lcGuid", szPageGuid);
+						foDiv.addVariable("OS", BrowserDetect.OS);
+						foDiv.addParam("scale", "noscale");
+						foDiv.addParam("salign", "lt");
+						foDiv.addParam("menu", "false");
+						foDiv.write("flashPopupNavLeft");
+						// ]]>
+					</script> 
+		
+				</td>
+				<td width="589" valign="top" bgcolor="#FFFFFF">
+					<table width="100%" height="100%" cellpadding="5" cellspacing="0">
+						<tr>
+							<td>
+
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+	<tr>
+		
+		
+		
+		<td>
+		</td>
+		
+	</tr>
+	<tr>
+		<td width="100%" valign=top colspan=7>
+			
+<SCRIPT TYPE="text/javascript" SRC="scripts/flashobject_fp8.js"></SCRIPT>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+	<tr>
+		<td>
+			<!--<img src="/graphics/shim.gif" border="0" width="10" height="10">-->
+		</td>
+		<td width="100%" valign=top>
+			<B><FONT size=1>
+<P align=center><FONT size=2></FONT></P>
+<P align=center><FONT size=2></FONT></P>
+<P align=center><FONT size=2><IMG src="xsites/Mortgage/security-funding/content/uploadedFiles/security%20funding%20logo%203.jpg"></FONT></P>
+<P align=center><IMG style="WIDTH: 131px; HEIGHT: 155px" height=800 src="xsites/Mortgage/security-funding/content/uploadedFiles/Tamarack%20Preferred%20Lender%20logo.JPG" width=637></P>
+<P align=center><FONT size=2>Get the best mortgage loan for you</FONT></P></B>
+<P><FONT size=2>When you decide to buy a home or refinance a mortgage, it's a big step. You can trust us to find the loan program that's best for you. </FONT></P><B>
+<P><FONT size=2>Buying a new home </FONT></B><FONT size=2>is a source of anxiety, frustration -- and a huge sense of accomplishment. You didn't pick the house that was best for someone else, you picked the one that's right for you! Trust our professionals to find the mortgage loan that best fits your needs, too. "Less paperwork and more personal attention" means you enter a frustration-free zone from application to decision. Getting the right mortgage loan is like getting the keys to your new house! We can help you get there.</FONT></P><B>
+<P><FONT size=2>Refinancing your current mortgage </FONT></B><FONT size=2>has never been easier. If you thought refinancing meant getting buried under mountains of paperwork, think again! We make it easy and worry-free to reduce your interest rate and monthly payment. We can even help you pay down your balance more quickly for comparable monthly payment. Let our professionals guide you to the very best refinanced loan!</FONT></P><B>
+<P><FONT size=2>Tapping into your home equity </FONT></B><FONT size=2>is easier than ever before. You've been paying down your balance, and property values have gone up! Tap into that wealth and reward yourself. We'll help with the best program to fit your goals.</FONT></P>
+<P><FONT size=2>Our mortgage professionals give you the personal attention you deserve and treat you with the respect due a valued customer. We understand you're making a commitment in buying a new home, refinancing and mortgage or cashing out your home equity. So we make a commitment to you. We will help you qualify, apply and be approved for the right mortgage loan for you. Not anybody else!</FONT></P>
+<P><FONT size=2>Please navigate our website to learn more about us, what we do for you, and how easy it is to get started. </FONT></P></FONT>
+			
+		</td>
+		
+		<td><img src="graphics/shim.gif" border="0" width="20" height="10"></td>
+		<td width="1" bgColor="#000000"><img src="graphics/shim.gif" border="0" width="1" height="10"></td>
+		<td><img src="graphics/shim.gif" border="0" width="5" height="10"></td>
+		<td width="175" valign=top align=center >
+			<img src="graphics/shim.gif" border="0" width="175" height="1"><br>
+			
+			
+<table>
+	<tr>
+		<td>
+			News Headlines
+		</td>
+	</tr>
+</table>
+
+
+		</td>
+		<td><img src="graphics/shim.gif" border="0" width="5" height="10"></td>
+		
+	</tr>
+</table>
+<!--<div id="FormsLayer" style="position:absolute; width:368px; height:178; z-index:2; left: 0; top: 0; visibility: visible;"></div>--><div style="width:100%;height:30px;"></div>
+			
+		</td>
+	</tr>
+</table>
+<div align=center class=tableText><div align=center class=tableText><BR>Security Funding Home Loans, Inc. 483 S RIVERSHORE LN, Suite 101  EAGLE, ID 83616-4978<br></div><span>Phone: 208-939-0002</span> <span>Fax: 208-939-3912</span> <p><a href="StaffProfiles"><span style="white-space: nowrap;">Staff Profiles</span></a> | <a href="ContactUs"><span style="white-space: nowrap;">Contact Us</span></a> | <a href="ClosingCosts"><span style="white-space: nowrap;">Closing Costs</span></a> | <a href="DownloadAdobeAcrobat"><span style="white-space: nowrap;">Download Adobe Acrobat</span></a> | <a href="TellaFriend"><span style="white-space: nowrap;">Tell a Friend</span></a> | <a href="RealEstateGlossary"><span style="white-space: nowrap;">Real Estate Glossary</span></a> | <a href="Home"><span style="white-space: nowrap;">Home</span></a> | <a href="LoanAppChecklist"><span style="white-space: nowrap;">Loan App Checklist</span></a> | <a href="MortgageSavingTips"><span style="white-space: nowrap;">Mortgage Saving Tips</span></a> | <a href="SiteMap"><span style="white-space: nowrap;">Site Map</span></a> | <a href="javascript:window.open('mercury/loanappweb/LoanAppNew.aspx?AWSAccountsID=381172', 'LoanApp', 'width=625,height=600');void(0);"><span style="white-space: nowrap;">Loan Application</span></a> | <a href="TheLoanProcess"><span style="white-space: nowrap;">The Loan Process</span></a> | <a href="GetYourLoanFaster!"><span style="white-space: nowrap;">Get Your Loan Faster!</span></a> | <a href="FixedVs.Adjustable"><span style="white-space: nowrap;">Fixed Vs. Adjustable</span></a> | <a href="ImproveYourCreditScore"><span style="white-space: nowrap;">Improve Your Credit Score</span></a> | <a href="Shouldyoubuypoints"><span style="white-space: nowrap;">Should you buy points?</span></a> | <a href="FinancingClosingCosts"><span style="white-space: nowrap;">Financing Closing Costs</span></a> | <a href="GettingQualified"><span style="white-space: nowrap;">Getting Qualified</span></a> | <a href="WhentoRefinance"><span style="white-space: nowrap;">When to Refinance</span></a> | <a href="LoanApplicationInfo"><span style="white-space: nowrap;">Loan Application Info</span></a> | <a href="Whatisacreditscore"><span style="white-space: nowrap;">What is a credit score?</span></a> | <a href="RateLockPeriods"><span style="white-space: nowrap;">Rate Lock Periods</span></a> | <a href="RatesandA.P.R."><span style="white-space: nowrap;">Rates and A.P.R.</span></a> | <a href="RefinancingOptions"><span style="white-space: nowrap;">Refinancing Options</span></a> | <a href="ARMCalc"><span style="white-space: nowrap;">ARM Calc</span></a> | <a href="FixedRateMtgCalc"><span style="white-space: nowrap;">Fixed Rate Mtg Calc</span></a> | <a href="15vs30YearMtgCalc"><span style="white-space: nowrap;">15 vs 30 Year Mtg Calc</span></a> | <a href="ARMvsFixedRateCalc"><span style="white-space: nowrap;">ARM vs Fixed Rate Calc</span></a> | <a href="MortgagePayoffCalc"><span style="white-space: nowrap;">Mortgage Payoff Calc</span></a> | <a href="RentvsBuyCalc"><span style="white-space: nowrap;">Rent vs Buy Calc</span></a> | <a href="RefiBreakevenCalc"><span style="white-space: nowrap;">Refi Breakeven Calc</span></a> | <a href="MortgageCalculators"><span style="white-space: nowrap;">Mortgage Calculators</span></a> | <a href="CustomerLogin"><span style="white-space: nowrap;">Customer Login</span></a><p>Copyright &copy; 2007&nbsp;Security Funding Home Loans, Inc.<br>Portions Copyright &copy; 2007 a la mode, inc.<br>Another XSite by <a href='' target='_blank'>a la mode, inc.</a>&nbsp;|&nbsp;<a href='apps/alamodelogin/login.aspx'>Admin Login</a>|&nbsp;<a href='TermsOfUse'>Terms of Use</a>|&nbsp;<a href='SiteMap'>Site Map</a></div>
+
+
+
+				</td>
+				</tr>
+			</table>
+		</td>
+		<td bgcolor="#CCCCCC">&nbsp;</td>
+	</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="770" height="50">&nbsp;</td>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+  <tr valign="top" height="1">
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="770">
+		<div align="center" class="tableText"><br>
+			<table border="0" cellpadding="0" cellspacing="7" width="90%">
+				<tr>
+					<td>
+						
+					</td>
+				</tr>
+			</table>
+		</div>
+	</td>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="770" valign="top">
+		<div id="flashFoot"><!-- needs flash plugin --></div>
+    
+				<script type="text/javascript">
+					// <![CDATA[
+					var foFoot = new FlashObject("/templates/themes/FamilyEquity/bottom.swf", "footNav", "770", "81", 8, "#FFFFFF", "/HTMLSite.aspx");
+					foFoot.addVariable("BackgroundColor", "#FA6602");
+					foFoot.addVariable("SecondaryNavColor", "#FA6602");
+					foFoot.addParam("wmode", "transparent");
+					foFoot.addParam("scale", "noscale");
+					foFoot.addParam("salign", "lt");
+					foFoot.addParam("menu", "false");
+					foFoot.write("flashFoot");
+					// ]]>
+				</script>	
+		</td>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+

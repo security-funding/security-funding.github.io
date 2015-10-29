@@ -1,0 +1,48 @@
+
+
+
+
+
+
+body
+{
+	FONT-SIZE: 8pt;
+	FONT-FAMILY: Verdana, Arial;
+	background-color: #ffffff;
+	color: #000000;
+}
+td
+{
+	FONT-SIZE: 8pt;
+	FONT-FAMILY: Verdana, Arial;
+	color: #000000;
+}
+form
+{
+	FONT-SIZE: 8pt;
+	FONT-FAMILY: Verdana, Arial
+}
+
+.headerText
+{
+	FONT-SIZE: 10pt;
+	FONT-FAMILY: Verdana, Arial
+}
+
+.button
+{
+	height: 23px;
+	FONT-SIZE: 8pt;
+	VERTICAL-ALIGN: baseline;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial;
+	BACKGROUND-COLOR: #cccccc;
+	TEXT-ALIGN: center;
+	TEXT-DECORATION: none
+}
+
+.modern2
+{
+	background-image: url(templates/themes/equity/images/blk_shim.gif);
+	background-repeat: repeat-y;
+}

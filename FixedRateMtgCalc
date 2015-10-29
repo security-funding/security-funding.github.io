@@ -1,0 +1,360 @@
+
+<html>
+	<head>
+
+
+
+
+
+
+
+		<title>Mortgage Loan Calculator</title>
+		<META HTTP-EQUIV="Expires" CONTENT="-1">
+		<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+		<META NAME="keywords" CONTENT="ID mortgage, refinance, mortgage refinance, home refinance, home loan, mortgage rates, refinance rates, home loan rates">
+		<META NAME="description" CONTENT="Use this calculator to determine your monthly payment and amortization schedule. ">
+
+		<SCRIPT TYPE="text/javascript" SRC="scripts/themeScripts.js"></SCRIPT>
+		<SCRIPT TYPE="text/javascript" SRC="scripts/flashobject.js"></SCRIPT>
+		<SCRIPT TYPE="text/javascript" SRC="scripts/flashPopup.js"></SCRIPT>
+
+		<LINK rel="stylesheet" type="text/css" href="Styles.css">
+		<LINK rel="stylesheet" type="text/css" href="templates/themes/equity/styleSheet.css">
+		
+		
+	</head>
+
+	<body bgcolor="#ffffff" topmargin="0" leftmargin="0">
+
+
+
+
+		
+		<div id="flashPopupNavLeft" style="position:absolute; width:5px; height:5px; z-index:999; left: -200px; top: 200px; visibility: visible;" onMouseOver="stopTime();" onMouseOut="startTime();">
+			<!-- alt content goes here, renders when the user doesn't have the proper flash file -->
+		</div>
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#CCCCCC">&nbsp;</td>
+				<td width="770">
+					<div id="topFlashNav"><!-- needs flash plugin --></div>
+				</td>
+				<td bgcolor="#CCCCCC">&nbsp;</td>
+			</tr>
+		</table>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#CCCCCC">&nbsp;</td>
+				<td id="flashNav" width="181" valign="top">
+					<div id="leftFlashNav"><!-- needs flash plugin --></div>
+					
+					<script type="text/javascript">
+					
+						var dtDate = new Date();
+						var szPageGuid = dtDate.getUTCMilliseconds().toString();
+					
+						// <![CDATA[
+						var foTop = new FlashObject("/templates/themes/FamilyEquity/TopNav.swf", "topNav", "770", "220", 7, "#FFFFFF", "/XSitesBasic/HTMLSite.aspx");
+						foTop.addVariable("host", "www.security-funding.com");
+						foTop.addVariable("AWSAccountsID", "381172");
+						foTop.addVariable("sitename", "/xSites/Mortgage/security-funding/");
+						foTop.addVariable("ChosenLanguage", "English");
+						foTop.addVariable("IsMaster", "True");
+						foTop.addVariable("lcGuid", szPageGuid);
+						foTop.addVariable("OS", BrowserDetect.OS);
+						foTop.addParam("wmode", "transparent");
+						foTop.addParam("scale", "noscale");
+						foTop.addParam("salign", "lt");
+						foTop.addParam("menu", "false");
+						foTop.write("topFlashNav");
+
+						var foSec = new FlashObject("/templates/themes/FamilyEquity/LeftNav.swf", "leftNav", "181", "650", 7, "#FFFFFF");
+						foSec.addVariable("host", "www.security-funding.com");
+						foSec.addVariable("AWSAccountsID", "381172");
+						foSec.addVariable("sitename", "/xSites/Mortgage/security-funding/");
+						foSec.addVariable("ChosenLanguage", "English");
+						foSec.addVariable("lcGuid", szPageGuid);
+						foSec.addVariable("OS", BrowserDetect.OS);
+						foSec.addParam("scale", "noscale");
+						foSec.addParam("salign", "lt");
+						foSec.addParam("menu", "false");
+						foSec.write("leftFlashNav");
+						
+						var foDiv = new FlashObject("/templates/themes/nestedNav/style1.swf", "popupSwf", "200", "25", 7, "#FFFFFF");
+						foDiv.addVariable("host", "www.security-funding.com");
+						foDiv.addVariable("AWSAccountsID", "381172");
+						foDiv.addVariable("sitename", "/xSites/Mortgage/security-funding/");
+						foDiv.addVariable("ChosenLanguage", "English");
+						foDiv.addVariable("lcGuid", szPageGuid);
+						foDiv.addVariable("OS", BrowserDetect.OS);
+						foDiv.addParam("scale", "noscale");
+						foDiv.addParam("salign", "lt");
+						foDiv.addParam("menu", "false");
+						foDiv.write("flashPopupNavLeft");
+						// ]]>
+					</script> 
+		
+				</td>
+				<td width="589" valign="top" bgcolor="#FFFFFF">
+					<table width="100%" height="100%" cellpadding="5" cellspacing="0">
+						<tr>
+							<td>
+
+
+<script language="JavaScript" type="text/JavaScript" src="Admin/JS/WizardV1.js"></script>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+	<tr>
+		
+		
+		
+		<td>
+		</td>
+		
+	</tr>
+	<tr>
+		<td width="100%" valign=top colspan=7>
+			
+<SCRIPT TYPE="text/javascript" SRC="scripts/flashobject_fp8.js"></SCRIPT>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+	<tr>
+		<td>
+			<!--<img src="/graphics/shim.gif" border="0" width="10" height="10">-->
+		</td>
+		<td width="100%" valign=top>
+			<CENTER>
+<APPLET name="calculator" code="MortgageLoan.class" align="baseline" WIDTH="565" HEIGHT="380" archive="dinkytown.jar" codebase="/web/20061016043617oe_/http://www.security-funding.com/Scripts">
+<PARAM name="INTEREST_RATE" value="6.25">
+<PARAM name="TERM" value="15">
+<PARAM name="LOAN_AMOUNT" value="100000">
+<PARAM name="PREPAY_AMOUNT" value="0">
+<PARAM name="PREPAY_STARTS_WITH" value="1">
+<PARAM name="COLOR1" value="EAEAEA">
+<PARAM name="COLOR2" value="EAEAEA">
+<PARAM name="BORDER" value="ROUND">
+<PARAM name="BORDER_COLOR" value="000000">
+<PARAM name="BORDER_WIDTH" value="0">
+<PARAM name="BACKGROUND" value="/scripts/background.jpg">
+<PARAM name="BACKGROUND_COLOR" value="FFFFFF">
+
+<PARAM name="TEXT_FOR_REPORT" value="<HTML>
+<HEAD>
+<TITLE>Mortgage Loan Calculator</TITLE>
+<META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=iso8859-1'>
+<META NAME='Description' CONTENT='Financial Calculators, &QCPQ;1999-2003 KJE Computer Solutions, LLC. For more information please see http://www.dinkytown.net'>
+
+<STYLE>
+<!--
+
+BODY, TABLE, TD, TH, UL, OL, DD, DL, P, BR {
+font-family: helvetica, arial, sans-serif;
+font-size: 10pt;
+}
+
+H1 {
+font-family: helvetica, arial, sans-serif;
+font-size: 13pt;
+font-weight: bold;
+}
+
+DT {
+font-family: helvetica, arial, sans-serif;
+font-size: 10pt;
+font-weight: bold;
+}
+
+P.footer {
+font-family: helvetica, arial, sans-serif;
+font-size: 9pt;
+}
+
+DIV.large {
+font-family: helvetica, arial, sans-serif;
+font-size: 13pt;
+font-weight: bold;
+}
+
+-->
+</STYLE>
+
+</HEAD>
+<BODY bgcolor='#FFFFFF' LINK='#003399' VLINK='#666666' BGCOLOR='#FFFFFF'>
+
+<CENTER><table border=0 bgcolor='#000000' width=468 cellspacing=1 cellpadding=0><tr><td width='100%'><table bgcolor='#FFFFDD' border=0 width=468 cellspacing=1 cellpadding=5><tr><td width='100%' align=center valign=middle><DIV class=large>Mortgage Loan Calculator Results</DIV></td></tr></table></TD></TR></TABLE></CENTER>
+<H1>Your payment is MONTHLY_PI for TERM years with a rate of INTEREST_RATE.</H1><CENTER><table border=0 bgcolor='#000000' width=95% cellspacing=1 cellpadding=0><tr><td width='100%'><table bgcolor='#FFFFFF' border=0 width=100% cellspacing=1 cellpadding=5>
+<TR BGCOLOR='#CCCCCC'><TD COLSPAN=2><CENTER><B>Mortgage Summary</B></CENTER></TD></TR>
+<TR><TD><b>Loan amount</b></TD><TD>LOAN_AMOUNT</TD></TR>
+<TR><TD><b>Term</b></TD><TD>TERM years</TD></TR>
+<TR><TD><b>Interest rate</b></TD><TD>INTEREST_RATE</TD></TR>
+<TR><TD><b>Monthly payment</b></TD><TD>MONTHLY_PI</TD></TR>
+<TR><TD><b>Total payments</b></TD><TD>TOTAL_OF_PAYMENTS</TD></TR>
+<TR><TD><b>Total interest</b></TD><TD>INTEREST_PAID</TD></TR>
+</TABLE></TD></TR></TABLE>
+</CENTER>
+
+<H1>Prepayment Results</H1><P>Principal prepayments on your mortgage can save you a great deal of interest. They can also shorten the time it takes to pay off your mortgage, in many cases, by several years. PREPAY_MESSAGE
+<P>
+<CENTER><table border=0 bgcolor='#000000' width=95% cellspacing=1 cellpadding=0><tr><td width='100%'><table bgcolor='#FFFFFF' border=0 width=100% cellspacing=1 cellpadding=5>
+<TR BGCOLOR='#CCCCCC'><TD COLSPAN=2><CENTER><B>Prepayment Summary</B></CENTER></TD></TR>
+<TR><TD><b>Amount</b></TD><TD>PREPAY_AMOUNT PREPAY_TYPE</TD></TR>
+<TR><TD><b>Start with payment</b></TD><TD>PREPAY_STARTS_WITH&NBSP;</TD></TR>
+<TR><TD><b>Total payments</b></TD><TD>PREPAY_TOTAL_OF_PAYMENTS&NBSP;</TD></TR>
+<TR><TD><b>Total interest</b></TD><TD>PREPAY_INTEREST_PAID&NBSP;</TD></TR>
+<TR><TD><b>Interest savings</b></TD><TD>PREPAY_INTEREST_SAVINGS&NBSP;</TD></TR>
+</TABLE></TD></TR></TABLE>
+</CENTER>
+
+
+<P><DIV class=large>Payment schedule</DIV>
+<HR SIZE=1>
+**REPEATING GROUP**
+
+<BR>
+<HR SIZE=1>
+<CENTER><P class=footer>  Information and interactive calculators are made available to you as self-help tools for your independent use and are not intended to provide investment advice. We can not and do not guarantee their applicability or accuracy in regards to your individual circumstances. All examples are hypothetical and are for illustrative purposes.  We encourage you to seek personalized advice from qualified professionals regarding all personal finance issues. </P></CENTER><br><br>
+</BODY>
+</HTML>
+">
+<CENTER>This Financial Calculator requires a Browser with Java applet Support.  If you are seeing this message you will need to download SUN's Java Plug-in.  This can be done simply, and automatically, by clicking the link below: <P><A href="" target=_blank><b>Get the Java Plug-in!</b></A></CENTER></APPLET>
+</CENTER>
+<STYLE>
+<!--
+
+BODY, TABLE, TD, TH, UL, OL, DD, DL, P, BR {
+font-family: helvetica, arial, sans-serif;
+font-size: 10pt;
+}
+
+H1 {
+font-family: helvetica, arial, sans-serif;
+font-size: 13pt;
+font-weight: bold;
+}
+
+DT {
+font-family: helvetica, arial, sans-serif;
+font-size: 10pt;
+font-weight: bold;
+}
+
+P.footer {
+font-family: helvetica, arial, sans-serif;
+font-size: 9pt;
+}
+
+DIV.large {
+font-family: helvetica, arial, sans-serif;
+font-size: 13pt;
+font-weight: bold;
+}
+
+-->
+</STYLE>
+<script src="scripts/calc.js" type="text/javascript"></script>
+
+<CENTER><SCRIPT>document.write(showbuttons())</SCRIPT></CENTER>
+
+<P>Use this calculator to generate an amortization schedule for your current mortgage. Quickly see how much interest you will pay and your principal balances. You can even determine the impact of any principal prepayments! Press the "View Report" button for a full yearly or monthly amortization schedule.<P>
+<H1>Definitions</H1><P><CENTER><TABLE WIDTH="95%"><TR><TD><DL>
+<DT><B>Mortgage amount</B><DD>Original or expected balance for your mortgage.<P>
+<DT><B>Interest rate</B><DD>Annual interest rate for this mortgage.<P>
+<DT><B>Term in years</B><DD>The number of years over which you will repay this loan. The most common mortgage terms are 15 years and 30 years.<P>
+<DT><B>Monthly payment</B><DD>Monthly principal and interest payment (PI).<P>
+<DT><B>Total payments</B><DD>Total of all monthly payments over the full term of the mortgage. This total payment amount assumes that there are no prepayments of principal.<P>
+<DT><B>Total interest</B><DD>Total of all interest paid over the full term of the mortgage. This total interest amount assumes that there are no prepayments of principal.<P>
+<DT><B>Prepayment type</B><DD>The frequency of prepayment. The options are: none, monthly, yearly, and one-time payment.<P>
+<DT><B>Prepayment amount</B><DD>Amount that will be prepaid on your mortgage. This amount will be applied to the mortgage principal balance, based on the prepayment type.<P>
+<DT><B>Start with payment</B><DD>This is the payment number that your prepayments will begin with. For a one time payment, this is the payment number that the single prepayment will be included in. All prepayments of principal are assumed to be received by your lender in time to be included in the following month's interest calculation.  If you choose to prepay with a one-time payment for payment number ZERO, the prepayment is assume to happen before the first payment of the loan.<P>
+<DT><B>Savings</B><DD>Total amount of interest you will save by prepaying your mortgage.
+</DL></TD></TR></TABLE></CENTER>
+
+<BR>
+<HR SIZE=1>
+<CENTER>
+<P class=footer> Information and interactive calculators are made available to you as self-help tools for your independent use and are not intended to provide investment advice. We can not and do not guarantee their applicability or accuracy in regards to your individual circumstances. All examples are hypothetical and are for illustrative purposes.  We encourage you to seek personalized advice from qualified professionals regarding all personal finance issues.  </P></CENTER>
+<BR>
+</BODY>
+</HTML>
+
+			
+		</td>
+		
+		<td>
+			<!--<img src="/graphics/shim.gif" border="0" width="10" height="10">-->
+		</td>
+		
+	</tr>
+</table>
+<!--<div id="FormsLayer" style="position:absolute; width:368px; height:178; z-index:2; left: 0; top: 0; visibility: visible;"></div>-->
+			
+		</td>
+	</tr>
+</table>
+<div align=center class=tableText><div align=center class=tableText><BR>Security Funding Home Loans, Inc. 483 S RIVERSHORE LN, Suite 101  EAGLE, ID 83616-4978<br></div><span>Phone: 208-939-0002</span> <span>Fax: 208-939-3912</span> <p><a href="ClosingCosts"><span style="white-space: nowrap;">Closing Costs</span></a> | <a href="Shouldyoubuypoints"><span style="white-space: nowrap;">Should you buy points?</span></a> | <a href="15vs30YearMtgCalc"><span style="white-space: nowrap;">15 vs 30 Year Mtg Calc</span></a> | <a href="ARMCalc"><span style="white-space: nowrap;">ARM Calc</span></a> | <a href="ARMvsFixedRateCalc"><span style="white-space: nowrap;">ARM vs Fixed Rate Calc</span></a> | <a href="FixedRateMtgCalc"><span style="white-space: nowrap;">Fixed Rate Mtg Calc</span></a> | <a href="MortgagePayoffCalc"><span style="white-space: nowrap;">Mortgage Payoff Calc</span></a> | <a href="RefiBreakevenCalc"><span style="white-space: nowrap;">Refi Breakeven Calc</span></a> | <a href="RentvsBuyCalc"><span style="white-space: nowrap;">Rent vs Buy Calc</span></a> | <a href="ContactUs"><span style="white-space: nowrap;">Contact Us</span></a> | <a href="Whatisacreditscore"><span style="white-space: nowrap;">What is a credit score?</span></a> | <a href="CustomerLogin"><span style="white-space: nowrap;">Customer Login</span></a> | <a href="DownloadAdobeAcrobat"><span style="white-space: nowrap;">Download Adobe Acrobat</span></a> | <a href="FinancingClosingCosts"><span style="white-space: nowrap;">Financing Closing Costs</span></a> | <a href="FixedVs.Adjustable"><span style="white-space: nowrap;">Fixed Vs. Adjustable</span></a> | <a href="GetYourLoanFaster!"><span style="white-space: nowrap;">Get Your Loan Faster!</span></a> | <a href="Home"><span style="white-space: nowrap;">Home</span></a> | <a href="ImproveYourCreditScore"><span style="white-space: nowrap;">Improve Your Credit Score</span></a> | <a href="LoanApplicationInfo"><span style="white-space: nowrap;">Loan Application Info</span></a> | <a href="javascript:window.open('mercury/loanappweb/LoanAppNew.aspx?AWSAccountsID=381172', 'LoanApp', 'width=625,height=600');void(0);"><span style="white-space: nowrap;">Loan Application</span></a> | <a href="TheLoanProcess"><span style="white-space: nowrap;">The Loan Process</span></a> | <a href="MortgageCalculators"><span style="white-space: nowrap;">Mortgage Calculators</span></a> | <a href="MortgageSavingTips"><span style="white-space: nowrap;">Mortgage Saving Tips</span></a> | <a href="RateLockPeriods"><span style="white-space: nowrap;">Rate Lock Periods</span></a> | <a href="RatesandA.P.R."><span style="white-space: nowrap;">Rates and A.P.R.</span></a> | <a href="RefinancingOptions"><span style="white-space: nowrap;">Refinancing Options</span></a> | <a href="SiteMap"><span style="white-space: nowrap;">Site Map</span></a> | <a href="StaffProfiles"><span style="white-space: nowrap;">Staff Profiles</span></a> | <a href="TellaFriend"><span style="white-space: nowrap;">Tell a Friend</span></a> | <a href="RealEstateGlossary"><span style="white-space: nowrap;">Real Estate Glossary</span></a> | <a href="WhentoRefinance"><span style="white-space: nowrap;">When to Refinance</span></a> | <a href="GettingQualified"><span style="white-space: nowrap;">Getting Qualified</span></a> | <a href="LoanAppChecklist"><span style="white-space: nowrap;">Loan App Checklist</span></a><p>Copyright &copy; 2006&nbsp;Security Funding Home Loans, Inc.<br>Portions Copyright &copy; 2006 a la mode, inc.<br>Another XSite by <a href='' target='_blank'>a la mode, inc.</a>&nbsp;|&nbsp;<a href='apps/alamodelogin/login.aspx' target='_new'>Admin Login</a>|&nbsp;<a href='TermsOfUse'>Terms of Use</a></div>
+
+
+
+				</td>
+				</tr>
+			</table>
+		</td>
+		<td bgcolor="#CCCCCC">&nbsp;</td>
+	</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="770" height="50">&nbsp;</td>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+  <tr valign="top" height="1">
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="770">
+		<div align="center" class="tableText"><br>
+			<table border="0" cellpadding="0" cellspacing="7" width="90%">
+				<tr>
+					<td>
+						
+					</td>
+				</tr>
+			</table>
+		</div>
+	</td>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="770" valign="top">
+		<div id="flashFoot"><!-- needs flash plugin --></div>
+    
+				<script type="text/javascript">
+					// <![CDATA[
+					var foFoot = new FlashObject("/templates/themes/FamilyEquity/bottom.swf", "topNav", "770", "81", 7, "#FFFFFF", "/HTMLSite.aspx");
+					foFoot.addVariable("BackgroundColor", "#FA6602");
+					foFoot.addVariable("SecondaryNavColor", "#FA6602");
+					foFoot.addParam("wmode", "transparent");
+					foFoot.addParam("scale", "noscale");
+					foFoot.addParam("salign", "lt");
+					foFoot.addParam("menu", "false");
+					foFoot.write("flashFoot");
+					// ]]>
+				</script>	
+		</td>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+

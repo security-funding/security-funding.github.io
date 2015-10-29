@@ -1,0 +1,384 @@
+
+<html>
+	<head>
+
+
+
+
+
+
+
+		<title>Rent vs Buy</title>
+		<META HTTP-EQUIV="Expires" CONTENT="-1">
+		<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+		<META NAME="keywords" CONTENT="ID mortgage, refinance, mortgage refinance, home refinance, home loan, mortgage rates, refinance rates, home loan rates">
+		<META NAME="description" CONTENT="Are you better off buying your home, or should you continue to rent? ">
+
+		<SCRIPT TYPE="text/javascript" SRC="scripts/themeScripts.js"></SCRIPT>
+		<SCRIPT TYPE="text/javascript" SRC="scripts/flashobject.js"></SCRIPT>
+		<SCRIPT TYPE="text/javascript" SRC="scripts/flashPopup.js"></SCRIPT>
+
+		<LINK rel="stylesheet" type="text/css" href="Styles.css">
+		<LINK rel="stylesheet" type="text/css" href="templates/themes/equity/styleSheet.css">
+		
+		
+	</head>
+
+	<body bgcolor="#ffffff" topmargin="0" leftmargin="0">
+
+
+
+
+		
+		<div id="flashPopupNavLeft" style="position:absolute; width:5px; height:5px; z-index:999; left: -200px; top: 200px; visibility: visible;" onMouseOver="stopTime();" onMouseOut="startTime();">
+			<!-- alt content goes here, renders when the user doesn't have the proper flash file -->
+		</div>
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#CCCCCC">&nbsp;</td>
+				<td width="770">
+					<div id="topFlashNav"><!-- needs flash plugin --></div>
+				</td>
+				<td bgcolor="#CCCCCC">&nbsp;</td>
+			</tr>
+		</table>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#CCCCCC">&nbsp;</td>
+				<td id="flashNav" width="181" valign="top">
+					<div id="leftFlashNav"><!-- needs flash plugin --></div>
+					
+					<script type="text/javascript">
+					
+						var dtDate = new Date();
+						var szPageGuid = dtDate.getUTCMilliseconds().toString();
+					
+						// <![CDATA[
+						var foTop = new FlashObject("/templates/themes/FamilyEquity/TopNav.swf", "topNav", "770", "220", 7, "#FFFFFF", "/XSitesBasic/HTMLSite.aspx");
+						foTop.addVariable("host", "www.security-funding.com");
+						foTop.addVariable("AWSAccountsID", "381172");
+						foTop.addVariable("sitename", "/xSites/Mortgage/security-funding/");
+						foTop.addVariable("ChosenLanguage", "English");
+						foTop.addVariable("IsMaster", "True");
+						foTop.addVariable("lcGuid", szPageGuid);
+						foTop.addVariable("OS", BrowserDetect.OS);
+						foTop.addParam("wmode", "transparent");
+						foTop.addParam("scale", "noscale");
+						foTop.addParam("salign", "lt");
+						foTop.addParam("menu", "false");
+						foTop.write("topFlashNav");
+
+						var foSec = new FlashObject("/templates/themes/FamilyEquity/LeftNav.swf", "leftNav", "181", "650", 7, "#FFFFFF");
+						foSec.addVariable("host", "www.security-funding.com");
+						foSec.addVariable("AWSAccountsID", "381172");
+						foSec.addVariable("sitename", "/xSites/Mortgage/security-funding/");
+						foSec.addVariable("ChosenLanguage", "English");
+						foSec.addVariable("lcGuid", szPageGuid);
+						foSec.addVariable("OS", BrowserDetect.OS);
+						foSec.addParam("scale", "noscale");
+						foSec.addParam("salign", "lt");
+						foSec.addParam("menu", "false");
+						foSec.write("leftFlashNav");
+						
+						var foDiv = new FlashObject("/templates/themes/nestedNav/style1.swf", "popupSwf", "200", "25", 7, "#FFFFFF");
+						foDiv.addVariable("host", "www.security-funding.com");
+						foDiv.addVariable("AWSAccountsID", "381172");
+						foDiv.addVariable("sitename", "/xSites/Mortgage/security-funding/");
+						foDiv.addVariable("ChosenLanguage", "English");
+						foDiv.addVariable("lcGuid", szPageGuid);
+						foDiv.addVariable("OS", BrowserDetect.OS);
+						foDiv.addParam("scale", "noscale");
+						foDiv.addParam("salign", "lt");
+						foDiv.addParam("menu", "false");
+						foDiv.write("flashPopupNavLeft");
+						// ]]>
+					</script> 
+		
+				</td>
+				<td width="589" valign="top" bgcolor="#FFFFFF">
+					<table width="100%" height="100%" cellpadding="5" cellspacing="0">
+						<tr>
+							<td>
+
+
+<script language="JavaScript" type="text/JavaScript" src="Admin/JS/WizardV1.js"></script>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+	<tr>
+		
+		
+		
+		<td>
+		</td>
+		
+	</tr>
+	<tr>
+		<td width="100%" valign=top colspan=7>
+			
+<SCRIPT TYPE="text/javascript" SRC="scripts/flashobject_fp8.js"></SCRIPT>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+	<tr>
+		<td>
+			<!--<img src="/graphics/shim.gif" border="0" width="10" height="10">-->
+		</td>
+		<td width="100%" valign=top>
+			<CENTER>
+<APPLET name="calculator" code="MortgageRentvsBuy.class" align="baseline" WIDTH="565" HEIGHT="520" archive="dinkytown.jar" codebase="/web/20061016043531oe_/http://www.security-funding.com/Scripts">
+<PARAM name="PRICE_OF_HOME" value="100000">
+<PARAM name="DOWNPAYMENT_CLOSING_CASH" value="10000">
+<PARAM name="PROPERTY_TAX_RATE" value="1.0">
+<PARAM name="HOME_INSURANCE_RATE" value="0.5">
+<PARAM name="INTEREST_RATE" value="6.25">
+<PARAM name="LENGTH_OF_LOAN" value="30">
+<PARAM name="LOAN_ORIGINATION_RATE" value="1.0">
+<PARAM name="POINTS_PAID_NBR" value="1.0">
+<PARAM name="PMI_RATE" value="0.5">
+<PARAM name="OTHER_CLOSING_COSTS" value="800">
+<PARAM name="TAX_RATE" value="25">
+<PARAM name="MONTHLY_RENT" value="750">
+<PARAM name="INFLATION_RATE" value="3.1">
+<PARAM name="INVESTMENT_RETURN" value="7.0">
+<PARAM name="HOME_APPRECIATION_RATE" value="3.0">
+<PARAM name="HOME_COMMISION_RATE" value="7.0">
+<PARAM name="BACKGROUND_COLOR" value="FFFFFF">
+<PARAM name="BORDER" value="ROUND">
+<PARAM name="BORDER_COLOR" value="000000">
+<PARAM name="BORDER_WIDTH" value="0">
+<PARAM name="BACKGROUND" value="/scripts/background.jpg">
+<PARAM name="COLOR2" value="EAEAEA">
+
+<PARAM name="TEXT_FOR_REPORT" value="<HTML>
+<HEAD>
+<TITLE>Rent vs. Buy</TITLE>
+<META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=iso8859-1'>
+<META NAME='Description' CONTENT='Financial Calculators, &QCPQ;1999-2003 KJE Computer Solutions, LLC. For more information please see http://www.dinkytown.net'>
+
+<STYLE>
+<!--
+
+BODY, TABLE, TD, TH, UL, OL, DD, DL, P, BR {
+font-family: helvetica, arial, sans-serif;
+font-size: 10pt;
+}
+
+H1 {
+font-family: helvetica, arial, sans-serif;
+font-size: 13pt;
+font-weight: bold;
+}
+
+DT {
+font-family: helvetica, arial, sans-serif;
+font-size: 10pt;
+font-weight: bold;
+}
+
+P.footer {
+font-family: helvetica, arial, sans-serif;
+font-size: 9pt;
+}
+
+DIV.large {
+font-family: helvetica, arial, sans-serif;
+font-size: 13pt;
+font-weight: bold;
+}
+
+-->
+</STYLE>
+
+</HEAD>
+<BODY bgcolor='#FFFFFF' LINK='#003399' VLINK='#666666' BGCOLOR='#FFFFFF'>
+
+<CENTER><table border=0 bgcolor='#000000' width=468 cellspacing=1 cellpadding=0><tr><td width='100%'><table bgcolor='#FFFFDD' border=0 width=468 cellspacing=1 cellpadding=5><tr><td width='100%' align=center valign=middle><DIV class=large>Rent vs. Buy</DIV></td></tr></table></TD></TR></TABLE></CENTER>
+<H1>RESULT_MESSAGE_MAIN</H1><P>This is based on your home's equity minus a HOME_COMMISION_RATE sales commission paid to brokers or real estate agents when you sell your home. It also assumes your home will appreciate at HOME_APPRECIATION_RATE per year and you have an income tax rate of TAX_RATE. RESULT_MESSAGE_ADVICE
+<P>
+We calculated your breakeven point by examining how long it would take to create enough equity in your home to exceed the value of investing your cash on hand. We also accounted for differences in your monthly rent and house payments. If your rent payment is less than your net house payment, we add that monthly savings to your investment. If your house payment is less than your rent payment we subtract that amount from your investment. You may notice that on the schedule at the bottom of this report the investment value can be reported as negative. This happens if your house payment is significantly lower than your rent payment. It illustrates that if you continue to rent the extra cost of renting would, in effect, use up your cash on hand.
+<H1>Loan Information</H1><P>For MONTHLY_TOTAL_PMT and a down payment of TOTAL_FOR_DOWNPAYMENT you can purchase a home with a price of PRICE_OF_HOME. This is for a LENGTH_OF_LOAN year mortgage at INTEREST_RATE in the amount of LOAN_AMOUNT. Total closing costs for this loan are estimated at TOTAL_CLOSING_COSTS.
+<P>
+Your current monthly rent is MONTHLY_RENT. The expected inflation rate of INFLATION_RATE annually was used to estimate future rent and property taxes. The rate of return used for investments was INVESTMENT_RETURN per year.
+
+<P>
+<table border=0 bgcolor='#000000' width=90% cellspacing=1 cellpadding=0><tr><td width='100%'><table bgcolor='#FFFFFF' border=0 width=100% cellspacing=1 cellpadding=5>
+<TR BGCOLOR='CCCCCC'><TD COLSPAN=2><b>Your MONTHLY_TOTAL_PMT monthly payment consists of:</b></TD></TR>
+<TR><TD width=50%><b>Principal and interest</b></TD width=50%><TD>MONTHLY_PI</TD></TR>
+<TR><TD width=50%><b>PMI</b></TD><TD width=50%>MONTHLY_PMI</TD></TR>
+<TR><TD width=50%><b>Taxes</b></TD><TD width=50%>PROPERY_TAX_MONTHLY</TD></TR>
+<TR><TD width=50%><b>Insurance</b></TD><TD width=50%>HOME_INSURANCE_MONTHLY</TD></TR>
+</TABLE></TD></TR></TABLE>
+<P>
+<table border=0 bgcolor='#000000' width=90% cellspacing=1 cellpadding=0><tr><td width='100%'><table bgcolor='#FFFFFF' border=0 width=100% cellspacing=1 cellpadding=5>
+<TR BGCOLOR='CCCCCC'><TD COLSPAN=2><b>Closing costs of TOTAL_CLOSING_COSTS consists of:</b></TD></TR>
+<TR><TD width=50%><b>Amount paid of points</b></TD><TD width=50%>POINTS_PAID_AMT</TD></TR>
+<TR><TD width=50%><b>Origination fee</b></TD><TD width=50%>LOAN_ORIGINATION_AMT</TD></TR>
+<TR><TD width=50%><b>Other closing costs</b></TD><TD width=50%>OTHER_CLOSING_COSTS</TD></TR>
+</TABLE></TD></TR></TABLE>
+
+<P>To avoid PMI payments, a DOWNPAYMENT_20 down payment is required. This equals 20% of your home's purchase price. The total amount of cash required for a 20% down payment plus closing costs would be CLOSING_CLOSING_COSTS_20.
+<P><DIV class=large>Analysis of Future Payments</DIV>
+<HR SIZE=1>
+**REPEATING GROUP**
+
+<BR>
+<HR SIZE=1>
+<CENTER><P class=footer>  Information and interactive calculators are made available to you as self-help tools for your independent use and are not intended to provide investment advice. We can not and do not guarantee their applicability or accuracy in regards to your individual circumstances. All examples are hypothetical and are for illustrative purposes.  We encourage you to seek personalized advice from qualified professionals regarding all personal finance issues. </P></CENTER><br><br>
+</BODY>
+</HTML>
+">
+<CENTER>This Financial Calculator requires a Browser with Java applet Support.  If you are seeing this message you will need to download SUN's Java Plug-in.  This can be done simply, and automatically, by clicking the link below: <P><A href="" target=_blank><b>Get the Java Plug-in!</b></A></CENTER></APPLET>
+ </CENTER>
+ <STYLE>
+<!--
+
+BODY, TABLE, TD, TH, UL, OL, DD, DL, P, BR {
+font-family: helvetica, arial, sans-serif;
+font-size: 10pt;
+}
+
+H1 {
+font-family: helvetica, arial, sans-serif;
+font-size: 13pt;
+font-weight: bold;
+}
+
+DT {
+font-family: helvetica, arial, sans-serif;
+font-size: 10pt;
+font-weight: bold;
+}
+
+P.footer {
+font-family: helvetica, arial, sans-serif;
+font-size: 9pt;
+}
+
+DIV.large {
+font-family: helvetica, arial, sans-serif;
+font-size: 13pt;
+font-weight: bold;
+}
+
+-->
+</STYLE>
+<script src="scripts/calc.js" type="text/javascript"></script>
+<CENTER><SCRIPT>document.write(showbuttons())</SCRIPT></CENTER>
+
+<P>Should you rent or should you buy your home? It takes more than looking at your mortgage payment to answer this question. This calculator helps you weed through the fees, taxes, and monthly payments to help you make a good financial decision. Click the "View Report" button for a detailed look at the results.<P>
+<H1>Definitions</H1><P><CENTER><TABLE WIDTH="95%"><TR><TD><DL>
+<DT><B>Price of home</B><DD>Purchase price of the home you wish to buy.<P>
+<DT><B>Cash on hand</B><DD>Cash you have for the down payment and closing costs.<P>
+<DT><B>Interest rate</B><DD>The current interest rate you can receive on your mortgage.<P>
+<DT><B>Term in years</B><DD>The number of years over which you will repay this loan.<P>
+<DT><B>Property tax rate</B><DD>Your property tax rate. 1% for a $100,000 home equals $1,000 per year in property taxes.<P>
+<DT><B>Home insurance rate</B><DD>Your homeowner's insurance rate. 0.5% for a $100,000 home equals $500 per year for homeowner's insurance.<P>
+<DT><B>Loan origination rate</B><DD>The percentage the lending institution charges for its origination fee. 1% for a $100,000 home equals $1,000.<P>
+<DT><B>Points paid</B><DD>The total number of points paid to reduce the interest rate of your mortgage. Each point costs 1% of your mortgage balance.<P>
+<DT><B>Other closing costs</B><DD>Estimate of all other closing costs for this loan. This should include filing fees, appraiser fees and any other miscellaneous fees paid.<P>
+<DT><B>Total closing costs</B><DD>Total upfront costs to close your loan. This is the sum of the loan origination fee, amount paid for points and other closing costs.<P>
+<DT><B>Total for down payment</B><DD>Total funds remaining for down payment.<P>
+<DT><B>Mortgage amount</B><DD>Total amount of loan.<P>
+<DT><B>Investment return</B><DD>The rate of return you could receive if you invested your closing costs and down payment instead of purchasing a home.<P>The actual rate of return is largely dependant on the type of investments you select. From January 1970 to December 2003, the average compounded rate of return for the S&P 500, including reinvestment of dividends, was approximately 11.7% per year. During this period, the highest 12-month return was 64%, and the lowest was -39%. Savings accounts at a bank pay as little as 1% or less. It is important to remember that future rates of return can't be predicted with certainty and that investments that pay higher rates of return are subject to higher risk and volatility. The actual rate of return on investments can vary widely over time, especially for long-term investments. This includes the potential loss of principal on your investment.<P>
+<DT><B>Monthly rent payment</B><DD>Amount you currently pay for rent per month.<P>
+<DT><B>Income tax rate</B><DD>Your current marginal income tax rate.<P>
+<DT><B>Expected inflation rate</B><DD>What you expect for the average long-term inflation rate.  This has been calculated by the Consumer Price Index from 1925 to 2002 to be 3.1%. Inflation rate is used to adjust amounts subject to annual increases. These amounts include rent, insurance and tax payments.<P>
+<DT><B>Home appreciates at</B><DD>Annual appreciation you expect in the home you are purchasing.<P>
+<DT><B>Future sales commission</B><DD>The percent of your home's selling price you expect to pay to a broker or real estate agent when you sell your home.<P>
+<DT><B>House payment</B><DD>Total of principal, interest, taxes and insurance (PITI) paid per month for your home. Insurance includes Principal Mortgage Insurance (PMI) and homeowner's insurance.<P>
+<DT><B>Principal payment</B><DD>Total of principal paid per month on your mortgage.<P>
+<DT><B>Tax savings</B><DD>The value of the tax deduction you receive on your mortgage's interest and home's property taxes. For example, if you have $900 in interest and $100 property taxes per month, the value of the tax deduction would be $280. (At a tax rate of 28%).<P>
+<DT><B>Net house payment</B><DD>Your house payment minus the value of the tax deduction and principal payment.<P>
+<DT><B>Net home price</B><DD>Net selling price of your home after subtracting any sales commissions.<P>
+<DT><B>Monthly PI</B><DD>Monthly principal and interest payment.<P>
+<DT><B>Monthly PMI</B><DD>Monthly cost of Private Mortgage Insurance (PMI). For loans secured with less than 20% down, PMI is estimated at 0.5% of your loan balance each year.
+</DL></TD></TR></TABLE></CENTER>
+
+<BR>
+<HR SIZE=1>
+<CENTER>
+<P class=footer> Information and interactive calculators are made available to you as self-help tools for your independent use and are not intended to provide investment advice. We can not and do not guarantee their applicability or accuracy in regards to your individual circumstances. All examples are hypothetical and are for illustrative purposes.  We encourage you to seek personalized advice from qualified professionals regarding all personal finance issues.  </P></CENTER>
+<BR>
+</BODY>
+</HTML>
+
+			
+		</td>
+		
+		<td>
+			<!--<img src="/graphics/shim.gif" border="0" width="10" height="10">-->
+		</td>
+		
+	</tr>
+</table>
+<!--<div id="FormsLayer" style="position:absolute; width:368px; height:178; z-index:2; left: 0; top: 0; visibility: visible;"></div>-->
+			
+		</td>
+	</tr>
+</table>
+<div align=center class=tableText><div align=center class=tableText><BR>Security Funding Home Loans, Inc. 483 S RIVERSHORE LN, Suite 101  EAGLE, ID 83616-4978<br></div><span>Phone: 208-939-0002</span> <span>Fax: 208-939-3912</span> <p><a href="ClosingCosts"><span style="white-space: nowrap;">Closing Costs</span></a> | <a href="Shouldyoubuypoints"><span style="white-space: nowrap;">Should you buy points?</span></a> | <a href="15vs30YearMtgCalc"><span style="white-space: nowrap;">15 vs 30 Year Mtg Calc</span></a> | <a href="ARMCalc"><span style="white-space: nowrap;">ARM Calc</span></a> | <a href="ARMvsFixedRateCalc"><span style="white-space: nowrap;">ARM vs Fixed Rate Calc</span></a> | <a href="FixedRateMtgCalc"><span style="white-space: nowrap;">Fixed Rate Mtg Calc</span></a> | <a href="MortgagePayoffCalc"><span style="white-space: nowrap;">Mortgage Payoff Calc</span></a> | <a href="RefiBreakevenCalc"><span style="white-space: nowrap;">Refi Breakeven Calc</span></a> | <a href="RentvsBuyCalc"><span style="white-space: nowrap;">Rent vs Buy Calc</span></a> | <a href="ContactUs"><span style="white-space: nowrap;">Contact Us</span></a> | <a href="Whatisacreditscore"><span style="white-space: nowrap;">What is a credit score?</span></a> | <a href="CustomerLogin"><span style="white-space: nowrap;">Customer Login</span></a> | <a href="DownloadAdobeAcrobat"><span style="white-space: nowrap;">Download Adobe Acrobat</span></a> | <a href="FinancingClosingCosts"><span style="white-space: nowrap;">Financing Closing Costs</span></a> | <a href="FixedVs.Adjustable"><span style="white-space: nowrap;">Fixed Vs. Adjustable</span></a> | <a href="GetYourLoanFaster!"><span style="white-space: nowrap;">Get Your Loan Faster!</span></a> | <a href="Home"><span style="white-space: nowrap;">Home</span></a> | <a href="ImproveYourCreditScore"><span style="white-space: nowrap;">Improve Your Credit Score</span></a> | <a href="LoanApplicationInfo"><span style="white-space: nowrap;">Loan Application Info</span></a> | <a href="javascript:window.open('mercury/loanappweb/LoanAppNew.aspx?AWSAccountsID=381172', 'LoanApp', 'width=625,height=600');void(0);"><span style="white-space: nowrap;">Loan Application</span></a> | <a href="TheLoanProcess"><span style="white-space: nowrap;">The Loan Process</span></a> | <a href="MortgageCalculators"><span style="white-space: nowrap;">Mortgage Calculators</span></a> | <a href="MortgageSavingTips"><span style="white-space: nowrap;">Mortgage Saving Tips</span></a> | <a href="RateLockPeriods"><span style="white-space: nowrap;">Rate Lock Periods</span></a> | <a href="RatesandA.P.R."><span style="white-space: nowrap;">Rates and A.P.R.</span></a> | <a href="RefinancingOptions"><span style="white-space: nowrap;">Refinancing Options</span></a> | <a href="SiteMap"><span style="white-space: nowrap;">Site Map</span></a> | <a href="StaffProfiles"><span style="white-space: nowrap;">Staff Profiles</span></a> | <a href="TellaFriend"><span style="white-space: nowrap;">Tell a Friend</span></a> | <a href="RealEstateGlossary"><span style="white-space: nowrap;">Real Estate Glossary</span></a> | <a href="WhentoRefinance"><span style="white-space: nowrap;">When to Refinance</span></a> | <a href="GettingQualified"><span style="white-space: nowrap;">Getting Qualified</span></a> | <a href="LoanAppChecklist"><span style="white-space: nowrap;">Loan App Checklist</span></a><p>Copyright &copy; 2006&nbsp;Security Funding Home Loans, Inc.<br>Portions Copyright &copy; 2006 a la mode, inc.<br>Another XSite by <a href='' target='_blank'>a la mode, inc.</a>&nbsp;|&nbsp;<a href='apps/alamodelogin/login.aspx' target='_new'>Admin Login</a>|&nbsp;<a href='TermsOfUse'>Terms of Use</a></div>
+
+
+
+				</td>
+				</tr>
+			</table>
+		</td>
+		<td bgcolor="#CCCCCC">&nbsp;</td>
+	</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="770" height="50">&nbsp;</td>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+  <tr valign="top" height="1">
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="770">
+		<div align="center" class="tableText"><br>
+			<table border="0" cellpadding="0" cellspacing="7" width="90%">
+				<tr>
+					<td>
+						
+					</td>
+				</tr>
+			</table>
+		</div>
+	</td>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="770" valign="top">
+		<div id="flashFoot"><!-- needs flash plugin --></div>
+    
+				<script type="text/javascript">
+					// <![CDATA[
+					var foFoot = new FlashObject("/templates/themes/FamilyEquity/bottom.swf", "topNav", "770", "81", 7, "#FFFFFF", "/HTMLSite.aspx");
+					foFoot.addVariable("BackgroundColor", "#FA6602");
+					foFoot.addVariable("SecondaryNavColor", "#FA6602");
+					foFoot.addParam("wmode", "transparent");
+					foFoot.addParam("scale", "noscale");
+					foFoot.addParam("salign", "lt");
+					foFoot.addParam("menu", "false");
+					foFoot.write("flashFoot");
+					// ]]>
+				</script>	
+		</td>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
