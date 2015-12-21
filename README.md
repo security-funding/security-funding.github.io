@@ -1,1 +1,0 @@
-# security-funding.github.io
