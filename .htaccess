@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteCond %{THE_REQUEST} ^.*/index.html
+RewriteRule ^(.*)index.html$ http://security-funding.com/$1 [R=301,L]
+
+
+RewriteCond %{HTTP_HOST} ^security-funding.com [NC]
+RewriteRule ^(.*)$ http://www.security-funding.com/$1 [L,R=301]
